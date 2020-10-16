@@ -8,16 +8,13 @@
 
 <h4 align="center">A <a href="https://github.com/phichitheta-zg/" target="_blank">Phi Chi Theta - Zeta Gamma</a> PCTech project.</h4>
 <p align="center">
-<img src="https://img.shields.io/circleci/build/github/phichitheta-zg/pct-homework-helper/master?style=shield">
     <img src="https://img.shields.io/badge/license-MIT-blue?style=shield">
 </p>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
 
@@ -25,9 +22,18 @@
 
 - Coming soon!
 
-## How To Use
+## Prerequisites
+You need to have these installed before starting
+1. Python 3.8
+2. Pip
 
-Instructions coming soon!
+## How To Use
+1. Download pipenv with `$pip install pipenv`
+2. In the main folder, start the virtualenv with `$pipenv shell`
+3. Install project dependencies with `$pipenv install`
+     * Install any new project dependncies with `$pipenv install <package>`
+4. Start the jupyter notebook with `$jupyter-lab`
+5. To exit, save all your work and go to `File -> Shut down.` Then, exit the shell with `$exit`
 
 ## Team
 
@@ -63,10 +69,6 @@ Instructions coming soon!
     </td>
   </tr>
 </table>
-
-## Credits
-
-This software uses the following open source packages:
 
 ## License
 
