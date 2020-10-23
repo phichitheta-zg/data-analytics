@@ -5,7 +5,6 @@ Actuarial Science
 Advertising
 Aerospace Engineering
 African American Studies
-Agri-Accounting
 Agribusiness, Markets & Management
 Agricultural and Biological Engineering (ACES)
 Agricultural and Biological Engineering (ENG)
@@ -27,6 +26,7 @@ Biochemistry
 Bioengineering
 Biology
 Brain and Cognitive Sciences
+Business Unassigned
 Chemical Engineering
 Chemistry
 Civil Engineering
@@ -89,6 +89,7 @@ Information Sciences
 Information Systems
 Integrative Biology
 Interdisciplinary Studies
+International Business
 Italian
 Jazz Performance
 Journalism

@@ -1,12 +1,12 @@
 Finance, Supply Chain Management
-Speech And Hearing Science, Speech And Hearing Science
+Speech And Hearing Science
 Accountancy
 Accountancy
 Accountancy
 Accountancy
 Accountancy
 Finance, Accountancy
-Speech And Hearing Science, Accountancy
+Accountancy, Masters of Accounting Science
 Finance
 Finance
 Finance
@@ -23,7 +23,7 @@ Finance
 Finance, Accountancy
 Finance, Operations Management
 Finance, Information Systems
-Music
+Undeclared
 Marketing, Finance
 Marketing, Finance
 Accountancy, Supply Chain Management
@@ -54,14 +54,14 @@ Advertising
 Advertising
 Advertising
 Advertising
-Advertising, International Business
+Information Systems, International Business
 Bioengineering
 Bioengineering
 Bioengineering
 Political Science
 Accountancy, Finance
-Agricultural Education, Agricultural And Biological Engineering (eng)
-Agricultural Education, Agricultural And Biological Engineering (eng)
+Agricultural and Biological Engineering (ACES)
+Agricultural and Biological Engineering (ACES)
 Electrical Engineering
 Electrical Engineering
 Accountancy, Finance
@@ -72,11 +72,11 @@ Accountancy, Finance
 Marketing, Information Systems
 Economics
 Economics
-Marketing, English, Italian
-Biology
+Marketing, Information Systems
+Atmospheric Sciences
 Actuarial Science, Statistics
 Actuarial Science, Statistics
-Supply Chain Management, English
+Supply Chain Management
 Computer Science
 Computer Science
 Computer Science
@@ -93,11 +93,11 @@ Computer Engineering
 Accountancy
 Aerospace Engineering
 Aerospace Engineering
-Industrial Design
+Psychology
 Accountancy, Finance
-Physics, Statistics
+Statistics and Computer Science
 Accountancy, Information Systems
-Civil Engineering, Environmental Economics & Policy
+Civil Engineering
 Finance, Accountancy
 Finance, Accountancy
 Finance, Accountancy
@@ -105,40 +105,40 @@ Supply Chain Management, Marketing
 Marketing
 Marketing
 Marketing, Supply Chain Management
-Marketing, English, Italian
+Marketing, Information Systems
 Finance, Accountancy
 Supply Chain Management, Marketing
 Finance, Information Systems
 Finance, Information Systems
 Finance, Information Systems
 Finance, Philosophy
-Marketing, Management
-Physics, Finance, Economics
+Marketing, International Business
+Computer Science, Finance, Economics
 Finance, Information Systems
 Finance, Information Systems
 Supply Chain Management, Information Systems
-Music, Psychology
+Psychology
 Mechanical Engineering
 Mechanical Engineering
 Undeclared
 Undeclared
-Finance, English
+Finance, Information Systems
 Accountancy, International Business
 Business Unassigned, Supply Chain Management
 Computer Science, Statistics
-Marketing, Advertising
+Marketing, Information Systems
 Accountancy, Finance
-International Business, Marketing
-Statistics, Physics
+Marketing, International Business
+Statistics and Computer Science
 Hospitality Management
 Accountancy, Finance
-Marketing, English
+Marketing, Information Systems
 Finance, Information Systems
-Civil Engineering, Environmental Economics & Policy
+Civil Engineering
 Business Unassigned
 Finance, International Business
 Finance, Statistics
-Consumer Economics & Finance
+Accountancy, Finance
 Supply Chain Management
 Operations Management
 Marketing, Supply Chain Management
