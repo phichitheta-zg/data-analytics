@@ -1,144 +1,294 @@
-Finance, Supply Chain Management
-Speech And Hearing Science, Speech And Hearing Science
-Accountancy
-Accountancy
-Accountancy
-Accountancy
-Accountancy
-Finance, Accountancy
-Speech And Hearing Science, Accountancy
-Finance
-Finance
-Finance
-Finance
-Finance
-Finance
-Finance
-Finance
-Finance
-Finance
-Finance
-Finance
-Finance
-Finance, Accountancy
-Finance, Operations Management
-Finance, Information Systems
-Music
-Marketing, Finance
-Marketing, Finance
-Accountancy, Supply Chain Management
-Industrial Engineering
-Industrial Engineering
-Industrial Engineering
-Industrial Engineering
-Industrial Engineering
-Accountancy
-Accountancy
-Accountancy
-Accountancy
-Accountancy
-Accountancy
-Accountancy
-Accountancy
-Accountancy
-Accountancy
-Business Unassigned
-Business Unassigned
-Business Unassigned
-Marketing, Information Systems
-Marketing, Information Systems
-Finance, Supply Chain Management
-Finance, Supply Chain Management
-Accountancy, Finance
-Advertising
-Advertising
-Advertising
-Advertising
-Advertising, International Business
-Bioengineering
-Bioengineering
-Bioengineering
-Political Science
-Accountancy, Finance
-Agricultural Education, Agricultural And Biological Engineering (eng)
-Agricultural Education, Agricultural And Biological Engineering (eng)
-Electrical Engineering
-Electrical Engineering
-Accountancy, Finance
-Accountancy, Finance
-Accountancy, Finance
-Accountancy, Finance
-Accountancy, Finance
-Marketing, Information Systems
-Economics
-Economics
-Marketing, English, Italian
-Biology
-Actuarial Science, Statistics
-Actuarial Science, Statistics
-Supply Chain Management, English
-Computer Science
-Computer Science
-Computer Science
-Computer Science
-Computer Science
-Information Systems
-Computer Science
-Systems Engineering And Design
-Systems Engineering And Design
-Computer Engineering
-Computer Engineering
-Computer Engineering
-Computer Engineering
-Accountancy
-Aerospace Engineering
-Aerospace Engineering
-Industrial Design
-Accountancy, Finance
-Physics, Statistics
-Accountancy, Information Systems
-Civil Engineering, Environmental Economics & Policy
-Finance, Accountancy
-Finance, Accountancy
-Finance, Accountancy
-Supply Chain Management, Marketing
-Marketing
-Marketing
-Marketing, Supply Chain Management
-Marketing, English, Italian
-Finance, Accountancy
-Supply Chain Management, Marketing
-Finance, Information Systems
-Finance, Information Systems
-Finance, Information Systems
-Finance, Philosophy
-Marketing, Management
-Physics, Finance, Economics
-Finance, Information Systems
-Finance, Information Systems
-Supply Chain Management, Information Systems
-Music, Psychology
-Mechanical Engineering
-Mechanical Engineering
-Undeclared
-Undeclared
-Finance, English
-Accountancy, International Business
-Business Unassigned, Supply Chain Management
-Computer Science, Statistics
-Marketing, Advertising
-Accountancy, Finance
-International Business, Marketing
-Statistics, Physics
-Hospitality Management
-Accountancy, Finance
-Marketing, English
-Finance, Information Systems
-Civil Engineering, Environmental Economics & Policy
-Business Unassigned
-Finance, International Business
-Finance, Statistics
-Consumer Economics & Finance
-Supply Chain Management
-Operations Management
-Marketing, Supply Chain Management
+--> 
+Marketing, International Business, Business Administration and Management--> Marketing, International Business, Business Unassigned, Management
+MAS--> Classics
+Finance--> Finance
+MAS--> Classics
+Economics--> Economics
+Economics--> Economics
+MAS, International Business--> Classics, International Business
+--> 
+MAS--> Classics
+MAS--> Classics
+Accountancy, Finance, Spanish--> Accountancy, Finance, Spanish
+MAS--> Classics
+Finance--> Finance
+Finance, Economics--> Finance, Economics
+Finance--> Finance
+Marketing, General Management--> Marketing, Farm Management
+Marketing, Management, International Business--> Marketing, Management, International Business
+MAS, International Business--> Classics, International Business
+Accountancy, Finance--> Accountancy, Finance
+Accountancy--> Accountancy
+Accountancy, Finance--> Accountancy, Finance
+Finance, Marketing--> Finance, Marketing
+Psychology, Business--> Psychology, Business Unassigned
+MAS--> Classics
+Marketing and Business Process Management--> Marketing, Operations Management
+MAS--> Classics
+Supply Chain Management & Marketing--> Supply Chain Management, Marketing
+Economics & Anthropology--> Economics, Anthropology
+MAS--> Classics
+MAS--> Classics
+MAS--> Classics
+--> 
+Accounting--> Accountancy
+IS/IT, BPM, T&M--> English, Italian, Human Development And Family Studies, Acting, Music
+--> 
+Marketing, IS/IT--> Marketing, English, Italian
+Marketing and Masters in Management, International Business--> Marketing, Supply Chain Management, International Business
+Accounting--> Accountancy
+Business Administration- General Management--> Business Unassigned, Farm Management
+Accouting, Finance--> Accountancy, Finance
+MAS, pursuing MBA--> Classics, Engineering Mechanics
+Food Science and Human Nutrition, Minor in Business--> Food Science, Human Nutrition, International Business
+--> 
+Marketing--> Marketing
+MAS--> Classics
+--> 
+Agricultural Economcs (MBA at Bowling Green State University)--> Agricultural Education
+Finance--> Finance
+--> 
+--> 
+Accounting--> Accountancy
+Finance--> Finance
+MAS and Finance--> Classics, Finance
+Finance--> Finance
+Finance and Statistics--> Finance, Statistics
+--> 
+Accounting, T&M--> Accountancy, Acting, Music
+Finance, BPM, Marketing--> Finance, Human Development And Family Studies, Marketing
+Finance.--> Finance
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+MAS--> Classics
+Accountancy--> Accountancy
+--> 
+--> 
+--> 
+BS Business Administration IS/IT--> Strategic Business Development And Entrepreneurship, Italian
+--> 
+--> 
+Finance, Accounting, Electrical Engineering--> Finance, Accountancy, Electrical Engineering
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+Mechanical Engineering + T&M minor--> Mechanical Engineering, Acting, Farm Management
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+MAS--> Classics
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+Advertising + Business Minor--> Advertising, Business Unassigned
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+ISIT & Business Management Entreprenurship--> Advertising, Operations Management
+BS/MAS--> Music, Classics
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+MAS--> Classics
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+Accountancy--> Accountancy
+--> 
+--> 
+--> 
+--> 
+--> 
+IS/IT & Marketing--> English, Italian, Marketing
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+Finance--> Finance
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+BS/MAS--> Music, Classics
+--> 
+--> 
+Finance--> Finance
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+Accountancy, Marketing, Entrepreneurship--> Accountancy, Marketing, Strategic Business Development And Entrepreneurship
+--> 
+Marketing & Management--> Marketing, Management
+--> 
+--> 
+--> 
+--> 
+Accountancy + International Business--> Accountancy, International Business
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+Marketing, Management (international business) + Spanish minor--> Marketing, International Business, Teacher Education: Spanish (k-12)
+Marketing, SCM, T&M--> Marketing, Food Science, Acting, Music
+--> 
+--> 
+MAS--> Classics
+--> 
+MAS--> Classics
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+Finance & IS/IT--> Finance, English, Italian
+--> 
+--> 
+Political Science--> Political Science
+Finance--> Finance
+--> 
+--> 
+BS/MAS--> Music, Classics
+--> 
+--> 
+--> 
+--> 
+--> 
+BS/MAS--> Music, Classics
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+--> 
+Accountancy--> Accountancy
+Finance--> Finance
+MAS--> Classics
+Accounting and IS/IT--> Accountancy, English, Italian
+Finance--> Finance
+Business Process Management and Information Systems/Information Technology, Psychology minor--> Operations Management, Information Systems, Information Systems, Psychology
+Finance--> Finance
+Mechanical Engineering--> Mechanical Engineering
+Computer Science--> Computer Science
+Fin--> Finance
+Finance/ISIT--> Finance, Advertising
+Accounting and Finance--> Accountancy, Finance
+Accounting and Supply Chain Management--> Accountancy, Supply Chain Management
+ISIT & Marketing--> Advertising, Marketing
+Accountancy, Finance--> Accountancy, Finance
+Accounting--> Accountancy
+Marketing and Supply Chain Management--> Marketing, Supply Chain Management
+IS/IT & Marketing--> English, Italian, Marketing
+Accounting & Finance, Minor in T&M--> Accountancy, Finance, Finance In Agri-business, Music
+Marketing--> Marketing
+Marketing & Supply chain management--> Marketing, Supply Chain Management
+Accounting--> Accountancy
+Marketing and Business Process Management--> Marketing, Operations Management
+Accounting and ISIT, Minor in German--> Accountancy, Advertising, Teacher Education: German (k-12)
+Supply Chain Management & Marketing--> Supply Chain Management, Marketing
+Accounting and Finance--> Accountancy, Finance
+Accounting--> Accountancy
+Marketing and IS/IT--> Marketing, English, Italian
+Workplace Training & Development--> Social Work, Human Development And Family Studies
+Finance--> Finance
+Accounting & IS/IT--> Accountancy, English, Italian
+ISIT/Marketing--> Advertising, Marketing
+Marketing and International Business--> Marketing, International Business
+Marketing and IS/IT--> Marketing, English, Italian
+Finance--> Finance
+Finance, Minor in Economics--> Finance, Consumer Economics & Finance
+Business Administration, SCM & IS/IT--> Business Unassigned, Food Science, English, Italian
+Finance and Accounting--> Finance, Accountancy
+Supply Chain Management, Minor in T&M--> Supply Chain Management, Finance In Agri-business, Music
+Supply Chain Management, Marketing--> Supply Chain Management, Marketing
+Finance--> Finance
+Supply Chain Management and Information Systems/Information Technology--> Supply Chain Management, Information Systems, Information Systems
+Finance, Information Systems--> Finance, Information Systems
+Chemical Engineering, Minor in T&M--> Chemical Engineering, Finance In Agri-business, Music
+ISIT/Marketing--> Advertising, Marketing
+Accountancy and IS/IT--> Accountancy, English, Italian
+Economics--> Economics
+Finance--> Finance
